@@ -12,7 +12,7 @@
     nums2 = [3, 4]
     The median is (2 + 3)/2 = 2.5
 */
-package com.peijin.leetcode.algorithm;
+package com.peijin.leetcode.algorithm.doing;
 /**
  * Created by peijin.zhangpj on 2017/6/1.
  */

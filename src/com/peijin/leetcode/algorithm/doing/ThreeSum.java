@@ -12,7 +12,7 @@ Given an array S of n integers, are there elements a, b, c in S such that a + b 
  ]
  */
 
-package com.peijin.leetcode.algorithm;
+package com.peijin.leetcode.algorithm.doing;
 
 import java.util.List;
 

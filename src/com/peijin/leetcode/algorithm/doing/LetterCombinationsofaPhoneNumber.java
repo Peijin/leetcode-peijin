@@ -9,7 +9,7 @@ Note:
 Although the above answer is in lexicographical order, your answer could be in any order you want.
  */
 
-package com.peijin.leetcode.algorithm;
+package com.peijin.leetcode.algorithm.doing;
 
 import java.util.List;
 
